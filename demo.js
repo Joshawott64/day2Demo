@@ -3,3 +3,6 @@ console.log('Hello, world!')
 
 // A change has been made
 console.log("Get changed")
+
+// Another change has been made
+console.log("Get changed again")
